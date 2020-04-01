@@ -1,0 +1,4 @@
+DESKTOP-LSD8KOT\SQLEXPRESS
+ControleDeEstoque
+sa
+hiro
